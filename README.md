@@ -1,18 +1,21 @@
 # Hi, my name is Bruno 👋
 
 <div>
-    <img src="https://camo.githubusercontent.com/b237bf3e0b497eedafe944a474a583afa826964444524fb37fceae9cb64c89e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73"
-        align="center" alt="html5">
-    <img src="https://camo.githubusercontent.com/0ea021110e1446e16c241b1d3a5c87ded0ff2e26d9c90ff002a4f8fc0a8731b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074"
-        align="center" alt="html5">
-    <img src="https://camo.githubusercontent.com/ccdb0125f151a6ce37f253031ea3d7c657d4143cce9723a3d94363cac48ad328/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d3030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d6f72616e6765"
-        align="center" alt="html5">
-    <img src="https://camo.githubusercontent.com/cc226a77c965f00b7d17b7449e120148e182d8b9f013cc3c96c50490bd4438de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e"
-        align="center" alt="html5">
-    <img src="https://camo.githubusercontent.com/dfe4477f221b19f28b286c09b5e776f09c33c5ec8747cebe97566637d76e9789/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35"
-        align="center" alt="html5">
-    <img src="https://camo.githubusercontent.com/9ef72e500ba94b7220fe187ebc86fc168f44c7a63916fba7f453f2ddddbc8777/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d333739396436"
-        align="center" alt="html5">
+    ![Javascript](https://img.shields.io/badge/-JavaScript-2d333b?style=for-the-badge&logo=javascript)
+    ![Typescript](https://img.shields.io/badge/-Typescript-2d333b?style=for-the-badge&logo=typescript)
+    ![Html](https://img.shields.io/badge/-HTML-2d333b?style=for-the-badge&logo=html5)
+    ![css](https://img.shields.io/badge/-CSS-2d333b?style=for-the-badge&logo=css3)
+    ![react](https://img.shields.io/badge/-React-2d333b?style=for-the-badge&logo=react)
+    ![reactnative](https://img.shields.io/badge/-React&nbsp;Native-2d333b?style=for-the-badge&logo=react)
+    ![nextjs](https://img.shields.io/badge/-NextJS-2d333b?style=for-the-badge&logo=next.js)
+    ![nodejs](https://img.shields.io/badge/-NodeJS-2d333b?style=for-the-badge&logo=node.js)
+    ![mongodb](https://img.shields.io/badge/-MongoDB-2d333b?style=for-the-badge&logo=mongodb)
+    ![firebase](https://img.shields.io/badge/-Firebase-2d333b?style=for-the-badge&logo=firebase)
+    ![lua](https://img.shields.io/badge/-Lua-2d333b?style=for-the-badge&logo=lua)
+    ![prisma](https://img.shields.io/badge/-Prisma-2d333b?style=for-the-badge&logo=prisma)
+    ![expressjs](https://img.shields.io/badge/-express.js-2d333b?style=for-the-badge&logo=express)
+    ![expo](https://img.shields.io/badge/-Expo-2d333b?style=for-the-badge&logo=expo)
+    ![vercel](https://img.shields.io/badge/-Vercel-2d333b?style=for-the-badge&logo=vercel)
 </div>
 <br>
 
