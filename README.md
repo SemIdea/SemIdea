@@ -15,6 +15,7 @@ Zod · Vitest + Testcontainers · Docker · GitHub Actions CI.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [bearboo](https://github.com/SemIdea/bearboo) · [live](https://bearboo-eight.vercel.app) | Full-stack blog + admin CMS: drafts, preview on the real URL, cursor pagination, native search | Next.js 16, tRPC, Prisma/Postgres, Redis, Zod, Vitest, Docker |
+| [visual-hunt](https://github.com/SemIdea/visual-hunt) | Reverse image search SaaS: background jobs, Stripe subscriptions, a provider adapter behind an interface | Next.js 15, tRPC, Prisma/Postgres, Redis, Trigger.dev, Stripe, Cloudinary |
 | [dockups](https://github.com/SemIdea/dockups) | CLI backup to Google Drive with `rclone copy` + `systemd --user` | Shell, systemd |
 
 ## Learning & forks
