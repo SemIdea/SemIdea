@@ -30,5 +30,5 @@ MongoDB · Docker · Vitest · Tailwind CSS
 
 ## Contact
 
-- Email: **codorkman@gmail.com**
+- Email: **bruno.telles.santos29@gmail.com**
 - GitHub: [@SemIdea](https://github.com/SemIdea)
